@@ -1,2 +1,2 @@
 # Merge-sort
-patika.dev merge sort ödev
+![1](/merge-sort.jpg)
