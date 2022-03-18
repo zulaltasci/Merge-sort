@@ -1,2 +1,2 @@
 # Merge-sort
-![1](/merge-sort.jpg)
+![merge](merge-sort.jpg)
